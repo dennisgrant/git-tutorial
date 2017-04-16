@@ -3,4 +3,4 @@
   Feature - A
  - fix - B
  - feature - C
- - feature - D - new D a
+ - feature - D - new D a b c 
